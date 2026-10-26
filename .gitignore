@@ -1,0 +1,7 @@
+target/
+tasks-db.mv.db
+tasks-db.trace.db
+dependency-reduced-pom.xml
+.idea/
+.vscode/
+*.iml
